@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357958475598",
+    "project_id": "ar2687386luisgalindo",
+    "storage_bucket": "ar2687386luisgalindo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357958475598:android:28f0e310cd201a5182c81f",
+        "android_client_info": {
+          "package_name": "co.sena.edu.ar2687386luisgalindo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357958475598-e1lvpej44guvqt0fp90oskfokpp93voi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFSpchlHHgTgAKO0GAEB_RUkZNp9BYEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357958475598-e1lvpej44guvqt0fp90oskfokpp93voi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
