@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:357958475598:android:28f0e310cd201a5182c81f",
+        "mobilesdk_app_id": "1:357958475598:android:e8ca310cb1e014aa82c81f",
         "android_client_info": {
-          "package_name": "co.sena.edu.ar2687386luisgalindo"
+          "package_name": "co.sena.ar2687386luisgalindo"
         }
       },
       "oauth_client": [
